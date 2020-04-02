@@ -14,11 +14,6 @@ def input_display():
         return money / 1000
 
 def main():
-    print("hhhhhhhhhhhhhhhh")
-    print("hhhhhhhhhhhhhhhh")
-    print("hhhhhhhhhhhhhhhh")
-    print("hhhhhhhhhhhhhhhh")
-
     count = input_display()
     for x in range(int(count)):
         nums = makeNums()
